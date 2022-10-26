@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yyeger
 - 👀 I’m interested in big data, low-level programming, history and geopolitics
 - 🌱 I’m currently learning too many things at once
-- 💞️ I’m looking to collaborate on android rom developing, (calyxOS and GrapheneOS ports for surya)
+- 💞️ I’m looking to collaborate on android rom developing (calyxOS and GrapheneOS ports for surya)
 - 📫 How to reach me: idjersamyremy@gmail.com / @yyeger on telegram
 
 <!---
