@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yyeger
 - 👀 I’m interested in low-level programming & history
 - 🌱 I’m currently learning too many things at once
-- 💞️ I’m looking to collaborate on android rom developing (calyxOS and GrapheneOS ports for surya)
-- 📫 How to reach me: idjersamyremy@gmail.com / @yyeger on telegram
+- 💞️ I’m looking to collaborate on android rom developing (GrapheneOS ports for surya)
+- 📫 How to reach me: yeger@airmail.cc / @yyeger on telegram
 
 <!---
 Yyeger/Yyeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
